@@ -62,7 +62,7 @@
   #### O que é ?
     - Um modelo para classificar a maturidade de uma API REST. Classificar quão `RESTFUL` a API é.
   ### Separação do modelo em 4 niveis: ( 0 até o 3 )
-  - sendo `0` o "menos adequado" e `3`o "mais adequado".
+  - sendo `0` o "menos adequado" e `3` o "mais adequado".
   #### Level 0:
     - Utiliza o XML ( eXtensible Markup Language )
       - É uma linguagem de marcação que define um conjunto de regras para codificação de documentos. Uma forma de representar dados, assim como JSON. ( porém diferente )
@@ -126,5 +126,7 @@
   - 4 Maturity Levels of REST API Design, link: https://blog.restcase.com/4-maturity-levels-of-rest-api-design/
   - Richardson Maturity Model, link: https://martinfowler.com/articles/richardsonMaturityModel.html
 
+# Exemplo de rest API level 2:
+https://github.com/godinhojoao/login-app/tree/main/server
 
-# Em breve será adicionado o exemplo de uma REST API no Level 2 do "Richardson Maturity Model"
+# Sinta-se a vontade para abrir um PR e contribuir com o projeto!!! :D
