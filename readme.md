@@ -86,7 +86,7 @@
       - Deletar dados com o metodo: `DELETE`
     - Utiliza status code corretos
   #### Level 3:
-    - Suporta `HATEOS`:
+    - Suporta `HATEOAS`:
       - Tudo o que pode ser feito naquela API ela mesma te diz. É a possibilidade de navegar em uma API apenas sabendo a URL inicial.
       ##### GET orders/1 --> orders/:id
       - Response sem HATEOAS:
