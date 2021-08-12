@@ -129,4 +129,7 @@
 # Exemplo de rest API level 2:
 https://github.com/godinhojoao/login-app/tree/main/server
 
+# Para verificar os SLIDES da apresentação: 
+ - <a href="https://docs.google.com/presentation/d/e/2PACX-1vRF-0XT8GfgYQgSt7etWnFKfNA_3bvZ82q_dHg3FlfEUspeWaQX4Zl6Hty4cAbn60GGr1xMq_Q2l8fK/pub?start=false&loop=false&delayms=60000">Clique aqui</a>
+
 # Sinta-se a vontade para abrir um PR e contribuir com o projeto!!! :D
